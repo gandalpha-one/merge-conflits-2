@@ -1,2 +1,2 @@
-# merge-conflits-2
+# merge-conflits-2 local
 j'aime le chocolat
